@@ -19,11 +19,11 @@ This plugin has been adapted to iOS8.0, iOS9.0, iOS8.0- version, different versi
         } else {
             
             // 位置名称
-            NSLog(@"%@", pl.name);
+            NSLog(@"位置名称：----%@", pl.name);
             // 纬度
-            NSLog(@"%@",@(pl.location.coordinate.latitude).stringValue);
+            NSLog(@"纬度：----%@",@(pl.location.coordinate.latitude).stringValue);
             // 经度
-            NSLog(@"%@",@(pl.location.coordinate.longitude).stringValue);
+            NSLog(@"经度：----%@",@(pl.location.coordinate.longitude).stringValue);
             
         }
         
