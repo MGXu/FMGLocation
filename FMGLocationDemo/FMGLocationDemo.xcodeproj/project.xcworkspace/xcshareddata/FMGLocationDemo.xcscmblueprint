@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A0F336F9D00E3575EA80D57D22511ED11AD341E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "79A2576D876E69020E58C98D246CE5F8DF2B0C0D" : 0,
+    "A0F336F9D00E3575EA80D57D22511ED11AD341E8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4DBF77B5-0B2A-4C78-8E24-930D2105B86C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "79A2576D876E69020E58C98D246CE5F8DF2B0C0D" : "",
+    "A0F336F9D00E3575EA80D57D22511ED11AD341E8" : "FMGLocationDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FMGLocationDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FMGLocationDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MGXu\/FMGLocation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "79A2576D876E69020E58C98D246CE5F8DF2B0C0D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MGXu\/FMGLocationDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0F336F9D00E3575EA80D57D22511ED11AD341E8"
+    }
+  ]
+}
